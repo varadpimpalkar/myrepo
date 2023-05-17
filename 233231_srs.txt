@@ -1,0 +1,9 @@
+Functional Requirements-
+-a registered user will sign in to go the home page.
+-A non registered user will sign up or will create an account with credentials.
+-Once user logged in the home page will show all basic facilities like update profile,apply for jobs,job vacancies.etc
+-A user will be able to search any particular job by using filters, and name of the org.
+-As per the data inserted by user in profile system will automatically suggest some jobs.
+-After applying user will get to the upload cv and other documents.
+-On the other hand once any staff logged in then he can update requirements,vacancies,check profiles of user,etc
+-Their will also be a premium version to get extra facilities from system where the payment can be initiated through debit card,credit card,etc.
